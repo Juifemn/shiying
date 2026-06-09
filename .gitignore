@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+dist/
+release/
+.codex/
+.DS_Store
+assets/marketing/background.png
